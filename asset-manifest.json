@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.d74fba5c.chunk.css",
-    "main.js": "/profile/static/js/main.359c6e39.chunk.js",
-    "main.js.map": "/profile/static/js/main.359c6e39.chunk.js.map",
+    "main.js": "/profile/static/js/main.abb229ff.chunk.js",
+    "main.js.map": "/profile/static/js/main.abb229ff.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.2b98c273.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.2b98c273.js.map",
     "static/css/2.27175f2b.chunk.css": "/profile/static/css/2.27175f2b.chunk.css",
@@ -13,13 +13,19 @@
     "static/css/main.d74fba5c.chunk.css.map": "/profile/static/css/main.d74fba5c.chunk.css.map",
     "static/js/2.e5842de1.chunk.js.LICENSE.txt": "/profile/static/js/2.e5842de1.chunk.js.LICENSE.txt",
     "static/media/Ahmed.5fb1e501.png": "/profile/static/media/Ahmed.5fb1e501.png",
-    "static/media/style.css": "/profile/static/media/bg.efd4494b.jpg"
+    "static/media/Quiz.ad14bebf.png": "/profile/static/media/Quiz.ad14bebf.png",
+    "static/media/style.css": "/profile/static/media/bg.efd4494b.jpg",
+    "static/media/cartComponent.0fa1d1be.webp": "/profile/static/media/cartComponent.0fa1d1be.webp",
+    "static/media/editorial.2ac6954d.jpg": "/profile/static/media/editorial.2ac6954d.jpg",
+    "static/media/inventoryApp.24d12e8d.png": "/profile/static/media/inventoryApp.24d12e8d.png",
+    "static/media/royalCup.5f223713.jpg": "/profile/static/media/royalCup.5f223713.jpg",
+    "static/media/yanfaa.c796b6bb.webp": "/profile/static/media/yanfaa.c796b6bb.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.2b98c273.js",
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.e5842de1.chunk.js",
     "static/css/main.d74fba5c.chunk.css",
-    "static/js/main.359c6e39.chunk.js"
+    "static/js/main.abb229ff.chunk.js"
   ]
 }
