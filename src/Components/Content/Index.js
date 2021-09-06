@@ -15,8 +15,7 @@ const Index = () => {
   const [clicked, setClicked] = useState(false);
 
   const handleGo = (section) => {
-    window.location.replace(`/#${section.target.firstChild.data}`);
-    // console.log(section.target.firstChild.data);
+    window.location.replace(`/profile/#${section.target.firstChild.data}`);
   };
 
   return (
