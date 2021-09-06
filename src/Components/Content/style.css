@@ -42,6 +42,7 @@
   padding: 10px;
   color: #fff;
   text-decoration: none;
+  cursor: pointer;
 }
 .container .content .menu a:hover {
   color: #20c997;
