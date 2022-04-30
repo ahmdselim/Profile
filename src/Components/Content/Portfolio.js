@@ -6,6 +6,7 @@ import inventoryApp from "./images/inventoryApp.png";
 import cartComponent from "./images/cartComponent.webp";
 import yanfaa from "./images/yanfaa.webp";
 import royalCup from "./images/royalCup.jpg";
+import brazilianCoffeeSite from "./images/brazilianCoffeeSite.png";
 import "react-tabs/style/react-tabs.css";
 
 const Portfolio = () => {
@@ -42,10 +43,16 @@ const Portfolio = () => {
       image: yanfaa,
     },
     {
-      url: "https://royalcup-f301f.web.app/",
+      url: "https://royalcup-f301f.web.app",
       name: "Royal Cup Coffee",
       category: "site",
       image: royalCup,
+    },
+    {
+      url: "https://github.com/ahmdselim/brazillianCoffeeHouse",
+      name: "Brazilian Coffee Site",
+      category: "site",
+      image: brazilianCoffeeSite,
     },
   ];
   return (
