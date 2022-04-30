@@ -21,7 +21,7 @@ const Portfolio = () => {
     },
     {
       url: "https://github.com/ahmdselim/qrCode",
-      name: "qrCOde Generator",
+      name: "qrCode Generator",
       category: "component",
       image: qrCode,
     },
