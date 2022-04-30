@@ -1,6 +1,7 @@
 import React from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import editorial from "./images/editorial.jpg";
+import qrCode from "./images/qrCode.png";
 import Quiz from "./images/Quiz.png";
 import inventoryApp from "./images/inventoryApp.png";
 import cartComponent from "./images/cartComponent.webp";
@@ -17,6 +18,12 @@ const Portfolio = () => {
       name: "Editorial",
       category: "component",
       image: editorial,
+    },
+    {
+      url: "https://github.com/ahmdselim/qrCode",
+      name: "qrCOde Generator",
+      category: "component",
+      image: qrCode,
     },
     {
       url: "https://ahmdselim.github.io/QuizApp",
