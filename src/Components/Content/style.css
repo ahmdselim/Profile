@@ -250,6 +250,7 @@
 .container .content .footer {
   text-align: center;
   margin-bottom: 20px;
+  margin-left: 50px;
 }
 .container .content .footer span {
   color: #20c997;
