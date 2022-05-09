@@ -78,7 +78,7 @@
 .container .content .home .darkAll p.paragraph {
   color: #dee3e4;
 }
-.container .content .home .darkAll button.hireMe {
+.container .content .home .darkAll .hireMe {
   background-color: #7575ca;
   color: #fff;
   padding: 10px 30px 10px 30px;
@@ -86,7 +86,7 @@
   border: 1px solid #7575ca;
   cursor: pointer;
 }
-.container .content .home .darkAll button.hireMe:hover {
+.container .content .home .darkAll .hireMe:hover {
   background-color: #7e7ec0;
 }
 .container .content .about-me,
@@ -233,6 +233,11 @@
   border-radius: 20px;
   object-fit: cover;
   object-position: center center;
+  transform: scale(0.95);
+  transition: all 0.3s ease-in-out;
+}
+.react-tabs .react-tabs__tab-panel .sites div img:hover {
+  transform: scale(0.98);
 }
 .container .content .resume .row {
   display: flex;

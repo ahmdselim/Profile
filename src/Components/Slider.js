@@ -46,14 +46,13 @@ const Slider = () => {
             </li>
           </ul>
         </div>
-        <div className="hireMe">
-          <a
-            style={{ color: "#FFF", textDecoration: "none" }}
-            href="mailto:ahmdhassaneg@gmail.com"
-          >
-            Email Me
-          </a>
-        </div>
+        <a
+          className="hireMe"
+          style={{ color: "#FFF", textDecoration: "none" }}
+          href="mailto:ahmdhassaneg@gmail.com"
+        >
+          Email Me
+        </a>
         <div className="icons">
           <a href="https://www.linkedin.com/in/ahmdselim">
             <FontAwesomeIcon icon={faLinkedin} />

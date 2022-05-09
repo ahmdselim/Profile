@@ -22,7 +22,13 @@ const Home = () => {
           />
         </h2>
         <p className="paragraph">based in Cairo, Egypt</p>
-        <button className="hireMe">Hire Me</button>
+        <a
+          className="hireMe"
+          style={{ color: "#FFF", textDecoration: "none" }}
+          href="mailto:ahmdhassaneg@gmail.com"
+        >
+          Hire Me
+        </a>
       </div>
     </section>
   );

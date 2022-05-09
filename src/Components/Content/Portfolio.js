@@ -5,6 +5,7 @@ import qrCode from "./images/qrCode.png";
 import Quiz from "./images/Quiz.png";
 import inventoryApp from "./images/inventoryApp.png";
 import cartComponent from "./images/cartComponent.webp";
+import movies from "./images/movies.png";
 import yanfaa from "./images/yanfaa.webp";
 import royalCup from "./images/royalCup.jpg";
 import brazilianCoffeeSite from "./images/brazilianCoffeeSite.png";
@@ -39,9 +40,15 @@ const Portfolio = () => {
     },
     {
       url: "https://ecommercecart-fd1de.web.app",
-      name: "Ecommerce Cart",
+      name: "E-Commerce Cart",
       category: "component",
       image: cartComponent,
+    },
+    {
+      url: "https://github.com/ahmdselim/movies",
+      name: "Movies Site",
+      category: "site",
+      image: movies,
     },
     {
       url: "https://github.com/ahmdselim/yanfaa-site",
