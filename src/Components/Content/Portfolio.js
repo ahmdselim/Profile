@@ -45,7 +45,7 @@ const Portfolio = () => {
       image: cartComponent,
     },
     {
-      url: "https://6278b8b55dcde460866bf4ee--movies-site-ahmdselim.netlify.app",
+      url: "https://rad-bonbon-1b1fa9.netlify.app",
       name: "Movies Site",
       category: "site",
       image: movies,
