@@ -15,7 +15,7 @@ const Portfolio = () => {
   // eslint-disable-next-line no-unused-vars
   const data = [
     {
-      url: "https://github.com/ahmdselim/Editorial",
+      url: "https://editorialsite.000webhostapp.com",
       name: "Editorial",
       category: "component",
       image: editorial,
@@ -63,7 +63,7 @@ const Portfolio = () => {
       image: royalCup,
     },
     {
-      url: "https://github.com/ahmdselim/brazillianCoffeeHouse",
+      url: "https://friendly-mousse-11c53e.netlify.app",
       name: "Brazilian Coffee Site",
       category: "site",
       image: brazilianCoffeeSite,
