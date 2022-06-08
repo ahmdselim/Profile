@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.343edbf3.chunk.css",
-    "main.js": "/profile/static/js/main.77987d70.chunk.js",
-    "main.js.map": "/profile/static/js/main.77987d70.chunk.js.map",
+    "main.js": "/profile/static/js/main.f00f0c2a.chunk.js",
+    "main.js.map": "/profile/static/js/main.f00f0c2a.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.2b98c273.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.2b98c273.js.map",
     "static/css/2.27175f2b.chunk.css": "/profile/static/css/2.27175f2b.chunk.css",
@@ -13,6 +13,7 @@
     "static/css/main.343edbf3.chunk.css.map": "/profile/static/css/main.343edbf3.chunk.css.map",
     "static/js/2.ea92fe09.chunk.js.LICENSE.txt": "/profile/static/js/2.ea92fe09.chunk.js.LICENSE.txt",
     "static/media/Ahmed.5fb1e501.png": "/profile/static/media/Ahmed.5fb1e501.png",
+    "static/media/B4S.abd9d0e8.jpg": "/profile/static/media/B4S.abd9d0e8.jpg",
     "static/media/Quiz.ad14bebf.png": "/profile/static/media/Quiz.ad14bebf.png",
     "static/media/style.css": "/profile/static/media/bg.efd4494b.jpg",
     "static/media/brazilianCoffeeSite.06a27b78.png": "/profile/static/media/brazilianCoffeeSite.06a27b78.png",
@@ -29,6 +30,6 @@
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.ea92fe09.chunk.js",
     "static/css/main.343edbf3.chunk.css",
-    "static/js/main.77987d70.chunk.js"
+    "static/js/main.f00f0c2a.chunk.js"
   ]
 }
